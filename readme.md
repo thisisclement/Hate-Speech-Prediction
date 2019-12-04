@@ -38,7 +38,7 @@ Hate speech categories:
 - religion
 - disability
 
-Data is gathered from Reddit and Gab, a white supremacist forum. The models explored will be:
+Data is gathered from Reddit and Gab, a white supremacist forum. [[7]](https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech) The models explored will be:
 
 __Machine Learning models__
 - Logistic Regression
@@ -52,7 +52,7 @@ __Machine Learning models__
 __Deep Learning models__
 - LSTM
 - CNN & LSTM
-- BERT model [[7]](https://github.com/google-research/bert)
+- BERT model [[8]](https://github.com/google-research/bert)
 
 After evaluating all the models, the best model is Logistic Regression achieving an F1 score of `87.91%`.
 
