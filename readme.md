@@ -6,12 +6,11 @@ Author: Clement Ow
 - [Abstract](#Abstract)
 - [Problem Statement](#Problem-Statement)
 - [Executive Summary](#Executive-Summary)
-- [Data Dictionary](#Data-Dictionary)
 - [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 
 ## Abstract
 
-In this era of the digital age, online hate speech residing in social media networks can influence hate violence or even crimes towards a certain group of people. Hate related attacks targetted at specific groups of people are at a 16-year high in the United States of America, statistics released by the FBI reported. [[1]](https://www.nytimes.com/2019/11/12/us/hate-crimes-fbi-report.html) Therefore, there is a growing need to eradicate hate speech as much as possible through automatic detection to ease the load on moderators.
+In this era of the digital age, online hate speech residing in social media networks can influence hate violence or even crimes towards a certain group of people. Hate related attacks targeted at specific groups of people are at a 16-year high in the United States of America, statistics released by the FBI reported. [[1]](https://www.nytimes.com/2019/11/12/us/hate-crimes-fbi-report.html) Therefore, there is a growing need to eradicate hate speech as much as possible through automatic detection to ease the load on moderators.
 
 Datasets were obtained from Reddit and a white supremacist forum, Gab where there contains human labelled comments that are determined as hate speech related. [[2]](https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech)
 
@@ -53,7 +52,7 @@ __Machine Learning models__
 __Deep Learning models__
 - LSTM
 - CNN & LSTM
-- BERT model [7](https://github.com/google-research/bert)
+- BERT model [[7]](https://github.com/google-research/bert)
 
 After evaluating all the models, the best model is Logistic Regression achieving an F1 score of `87.91%`.
 
