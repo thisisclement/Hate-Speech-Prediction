@@ -2,6 +2,8 @@
 
 Author: Clement Ow
 
+_Disclaimer: Dataset may contain offensive content. This is only discussed and used for research and academic purposes only and do not condone such behaviour. Let's try our best to eradicate hate speech! \#techforgood_
+
 ### Contents:
 - [Abstract](#Abstract)
 - [Problem Statement](#Problem-Statement)
