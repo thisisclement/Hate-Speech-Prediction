@@ -1,4 +1,4 @@
-# Capstone: Automatic Hate Speech Detection
+# Hate Speech Prediction 
 
 Author: Clement Ow
 
@@ -16,7 +16,7 @@ In this era of the digital age, online hate speech residing in social media netw
 
 Datasets were obtained from Reddit and a white supremacist forum, Gab where there contains human labelled comments that are determined as hate speech related. [[2]](https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech)
 
-Multiple modelling approaches will be explored, such as machine learning models and even state-of-the-art deep learning models. F1 score and recall will be the metrics to be prioritised in model comparison. In the event where both are the same, actual False Negatives and False Postive numbers will be looked at.
+Multiple modelling approaches will be explored, such as machine learning models and even state-of-the-art deep learning models. F1 score and recall will be the metrics to be prioritised in model comparison. In the event where both are the same, actual False Negatives and False Positive numbers will be looked at.
 
 ## Problem Statement
 
